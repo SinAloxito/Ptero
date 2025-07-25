@@ -53,7 +53,7 @@ dependencies:
 
   dbutils:
     git:
-      url: git://github.com/AndriousSolutions/dbutils.git
+      url: https://github.com/AndriousSolutions/dbutils.git
 
 dev_dependencies:
   flutter_test:
